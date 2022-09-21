@@ -5,20 +5,43 @@ body {
 header {
     text-align: right;
     position: fixed;
-    width: 99%;
+    width: 1490px;
     background-color: pink;
     z-index: 1;
+    border: 5px solid black;
+}
+
+h2 {
+    margin: 20px;
+    padding: 30px;
 }
 
 li {
     display:inline;
 }
 
-section {
-    height: 1000px;
-    width: 1500px;
+first {
+    height: 500px;
+    width: 1490px;
     background-color: brown;
     display: block;
-    position: absolute;
     text-align: center;
+    border: 10px solid black;
+}
+
+second {
+    height: 500px;
+    width: 1490px;
+    background-color: orangered;
+    display: block;
+    text-align: center;
+    border: 10px solid slategray;
+}
+
+footer {
+    height: 100px;
+    width: 1490px;
+    text-align: center;
+    background-color: pink;
+    border: 10px solid red;
 }
