@@ -9,6 +9,7 @@ header {
     background-color: pink;
     z-index: 1;
     border: 5px solid black;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 h2 {
@@ -27,6 +28,7 @@ first {
     display: block;
     text-align: center;
     border: 10px solid black;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 second {
@@ -36,6 +38,7 @@ second {
     display: block;
     text-align: center;
     border: 10px solid slategray;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 footer {
@@ -44,4 +47,5 @@ footer {
     text-align: center;
     background-color: pink;
     border: 10px solid red;
+    font-family: Arial, Helvetica, sans-serif;
 }
